@@ -6,7 +6,7 @@ description: |
   ICP, win-back, or growth priorities — setting up customer research, choosing who to interview,
   writing an invite or screener, drafting an interview or discussion guide, building a rubric to
   screen participants, review a guide, score an interview, or code transcripts, reviewing a
-  transcript or recording, critiquing interviewer technique, or turning interviews into pathways,
+  transcript, critiquing interviewer technique, or turning interviews into pathways,
   themes, a demand brief, or messaging inputs. Covers best-customer (switch), win-loss, churn, and
   non-switcher interviews, built on the Jobs to be Done switch timeline and the four forces of
   progress. Produces a research brief, interview guide, scored and coded interviews, and a
